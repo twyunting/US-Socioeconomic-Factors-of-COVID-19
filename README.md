@@ -1,4 +1,2 @@
-# STAT615_Regression
-* The repo is under the `MIT LICENSE` protection.
-* The content is included HW assignments and in-class Labs.
-* Mar 15, 2021, added Exams folder.
+# Evaluating US Socioeconomic Factors of COVID Confirmed Cases
+Keywords: Web Scrapping, Linear Regression, COVID-19
