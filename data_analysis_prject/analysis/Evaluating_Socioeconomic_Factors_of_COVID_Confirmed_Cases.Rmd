@@ -1,13 +1,17 @@
 ---
-title: 'Evaluating US Socioeconomic Factors of COVID Confirmed Cases'
-subtitle: "Keywords: Web Scrapping, Linear Regression, COVID-19"
+title: "Evaluating US Socioeconomic Factors of COVID Confirmed Cases"
 author: "Yunting Chiu, Chiyun Liu, Ana Lim"
 date: "`r Sys.Date()`"
 output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
   pdf_document:
-    toc: true
+    toc: yes
     toc_depth: 2
-    fig_caption: true
+    fig_caption: yes
+subtitle: 'Keywords: Web Scrapping, Linear Regression, COVID-19'
 urlcolor: blue
 linkcolor: red
 ---
